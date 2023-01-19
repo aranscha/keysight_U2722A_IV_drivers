@@ -13,7 +13,7 @@ The purpose of this program is illustrated in the figure below:
 
 ![](README_figs/SMU_gate_2_constant%20illustration.PNG)
 
-This setup allows for a variety of configurations. In the simplest case, you can have a transistor with a resistive load. In this example, T2 represents an active load in a p-mode cascode, where the gate voltage can be swept or kept constant.
+This setup allows for a variety of configurations. In the simplest case, you can have a transistor with a resistive load. In this example, T2 represents an active load in a cascode with PNP BJTs, where the gate voltage can be swept or kept constant.
 
 The interface of the instrument is shown below:
 ![](README_figs/IV%20arbitrary%20interface%201.PNG)
